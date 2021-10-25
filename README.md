@@ -1,5 +1,7 @@
 # vue-ts
-
+```
+typescript / tailwind / api composition
+```
 ## Project setup
 ```
 npm install
